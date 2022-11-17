@@ -5,4 +5,4 @@ ShareMe Social Media Application
 
 This is a code repository for the pinterest clone using Using React, Tailwind & Sanity.
 
-To properly run the project you need to make account in sanity and create the blueprints in the code and then connect them.
+To properly run the project you need to make account in sanity, create the blueprints in the code and then connect them.
