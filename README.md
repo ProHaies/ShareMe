@@ -1,2 +1,2 @@
 # ShareMe
-A pinterest clone
+ShareMe Social Media Application
